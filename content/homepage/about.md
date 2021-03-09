@@ -43,7 +43,7 @@ widget:
     attachment: 
 ---
 
-## Welcome to My Sute!
+## Welcome to My Site!
 
 I'm a teaching assistant at Florida State University, where I research and write about the intersection between fundamentalist groups and American culture.
 
