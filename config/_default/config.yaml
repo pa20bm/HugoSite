@@ -13,6 +13,7 @@ copyright: >
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
+publishdir: "docs"
 
 defaultContentLanguage: en
 hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
