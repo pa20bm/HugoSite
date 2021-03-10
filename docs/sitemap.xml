@@ -92,10 +92,13 @@
     <loc>/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/emoji/</loc>
+    <loc>/authors/paul-a.-anthony/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/emoji-support/</loc>
+    <loc>/posts/topic-modeling/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/topic-modeling/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
 </urlset>

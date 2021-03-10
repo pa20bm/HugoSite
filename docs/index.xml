@@ -96,12 +96,12 @@
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>/posts/emoji-support/</link>
+      <title>Topic Modeling</title>
+      <link>/posts/topic-modeling/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>/posts/topic-modeling/</guid>
+      <description>For my topic modeling, I chose 12 editorials from the 1960 volume of the Firm Foundation ending on Nov. 1, the last issue published before the presidential election. I struggled to find a background reference material. Archives of the Christian Century, America, Catholic Reporter and Billy Graham’s sermons are all either unavailable or can’t be copied into plain text documents for analysis. So in the end, I just grabbed 12 editorials from another Church of Christ journal I have, the Gospel Advocate.</description>
     </item>
     
   </channel>
