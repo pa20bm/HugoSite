@@ -2,7 +2,7 @@ baseURL: "https://pa20bm.github.io/"
 title: The Fundamentalist Historian
 
 # Comment when installing using Hugo Modules
-theme: eureka
+theme: "contrast-hugo"
 # Uncomment when installing using Hugo Modules
 # theme: github.com/wangchucheng/hugo-eureka
 
