@@ -1,22 +1,22 @@
 ---
-title: Paul A. Anthony
+title: Example Author
 draft: false
-role: Ph. D. student, American Religious History
+role: Example Role
 avatar: images/icon.png
-bio: History. Religion. Words.
+bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
-  name: Florida State University
+  name: Example Organization
   url: https://example.com/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:pa20bm@my.fsu.edu
+    url: mailto:example@example.com
   - icon: twitter
     iconPack: fab
-    url: https://twitter.com/disorientedblog
+    url: https://example.com/
   - icon: github
     iconPack: fab
-    url: https://github.com/pa20bm
+    url: https://example.com/
 
 weight: 1
 widget:
