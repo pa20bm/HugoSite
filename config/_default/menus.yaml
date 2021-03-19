@@ -1,10 +1,10 @@
 main:
-  - name: My C.V.
-    url: '/cv/'
+  - name: About
+    url: '#about'
     weight: 1
   - name: Posts
     url: /posts/
     weight: 2
-  - name: Projects
-    url: /projects/
+  - name: Docs
+    url: /docs/
     weight: 3

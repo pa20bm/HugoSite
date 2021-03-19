@@ -1,11 +1,12 @@
-baseURL: "https://pa20bm.github.io/"
-title: The Fundamentalist Historian
+baseURL: /
+title: Eureka Demo
 
 # Comment when installing using Hugo Modules
 theme: eureka
 # Uncomment when installing using Hugo Modules
 # theme: github.com/wangchucheng/hugo-eureka
 
+publishdir: "docs"
 paginate: 3
 copyright: >
   &copy; 2021 <a href="https://www.wangchucheng.com/">C. Wang</a> and <a
@@ -13,7 +14,6 @@ copyright: >
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
-publishdir: "docs"
 
 defaultContentLanguage: en
 hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
@@ -42,4 +42,4 @@ taxonomies:
   author: authors
 
 build:
-  useResourceCacheWhen: fallback
+  useResourceCacheWhen: always

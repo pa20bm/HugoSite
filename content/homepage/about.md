@@ -1,22 +1,22 @@
 ---
-title: Paul A. Anthony
+title: Example Author
 draft: false
-role: Ph.D. student
-avatar: images/IMG_7829.jpeg
-bio: History. Religion. Words.
+role: Example Role
+avatar: images/icon.png
+bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
-  name: Florida State University
-  # url
+  name: Example Organization
+  url: https://example.com/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:pa20bm@my.fsu.edu
+    url: mailto:example@example.com
   - icon: twitter
     iconPack: fab
-    url: https://twitter.com/disorientedblog
+    url: https://example.com/
   - icon: github
     iconPack: fab
-    url: https://github.com/pa20bm
+    url: https://example.com/
 
 weight: 1
 widget:
@@ -43,10 +43,21 @@ widget:
     attachment: 
 ---
 
-## Welcome to My Site!
+## Self Introduction
 
-I'm a teaching assistant at Florida State University, where I research and write about the intersection between fundamentalist groups and American culture.
+Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id. Aenean ac velit massa. Vivamus feugiat dui at magna viverra, ut dictum nunc rutrum. Duis eget sapien finibus, lobortis orci id, vestibulum tellus. Maecenas lobortis urna libero, quis fermentum lectus lobortis nec. Nullam laoreet volutpat libero, ac mattis magna ullamcorper quis. Duis eget ipsum eu nisi mattis cursus et vitae turpis.
 
-How did Churches of Christ respond to the teaching of evolution in public schools? What role did news media play in the Texas raid of the Fundamentalist Church of Jesus Christ of Latter Day Saints? How important were Christian artists like Petra to the shaping of material and doctrinal culture in evangelical Christianity? These are the kinds of questions I'm interested in.
+Aliquam pretium diam eget leo feugiat finibus. Donec malesuada commodo ipsum. Aenean a massa in lacus venenatis vestibulum. Duis vel sem quis elit iaculis consectetur et quis dolor. Morbi eu ipsum hendrerit, malesuada ante sed, dapibus est. Suspendisse feugiat nulla ut gravida convallis. Phasellus id massa posuere, rhoncus justo ut, porttitor dolor. Nulla ultrices malesuada egestas. Nunc fermentum tincidunt sem ac vulputate. Donec mollis sollicitudin justo eget varius. Donec ornare velit et felis blandit, id molestie sapien lobortis. Morbi eget tristique justo. Mauris posuere, nibh eu laoreet ultricies, ligula erat iaculis sapien, vel dapibus lacus libero ut diam. Etiam viverra ante felis, et scelerisque nunc pellentesque vitae. Praesent feugiat dictum molestie.
 
-In previous (professional) lives, I have been a newspaper reporter in West Texas, a private-uiversity fundraising and alumni relations writer and editor, and a Central Texas county public information officer. Check out the links at top for more info!
+## Details  
+
+Nunc pellentesque vitae:
+- Morbi accumsan nibh efficitur diam molestie, non dignissim diam facilisis.
+- Donec dignissim leo in mollis faucibus.
+- Donec blandit lacus a pellentesque fermentum.
+
+Donec mollis sollicitudin:
+- Nunc dictum purus ornare purus consectetur, eu pellentesque massa ullamcorper.
+- Aliquam eu leo vitae justo aliquam tincidunt.
+- Fusce non massa id augue interdum feugiat sed et nulla.
+- Vivamus molestie augue in tristique laoreet.
