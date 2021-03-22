@@ -1,4 +1,4 @@
-baseURL: "https://pa20bm.github.io/"
+baseURL: https://pa20bm.github.io/HugoSite
 title: The Fundamentalist Historian
 
 # Comment when installing using Hugo Modules

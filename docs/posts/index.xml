@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Fundamentalist Historian</title>
-    <link>https://pa20bm.github.io/posts/</link>
+    <link>https://pa20bm.github.io/HugoSite/posts/</link>
     <description>Recent content in Posts on The Fundamentalist Historian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Mon, 22 Mar 2021 09:48:55 -0400</lastBuildDate><atom:link href="https://pa20bm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 09:48:55 -0400</lastBuildDate><atom:link href="https://pa20bm.github.io/HugoSite/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computational Methods Update, March 15</title>
-      <link>https://pa20bm.github.io/posts/2021-03-15-comp-methods/</link>
+      <link>https://pa20bm.github.io/HugoSite/posts/2021-03-15-comp-methods/</link>
       <pubDate>Mon, 22 Mar 2021 09:48:55 -0400</pubDate>
       
-      <guid>https://pa20bm.github.io/posts/2021-03-15-comp-methods/</guid>
+      <guid>https://pa20bm.github.io/HugoSite/posts/2021-03-15-comp-methods/</guid>
       <description>March 15: I tooled around with the Wikidata Query Service, looking through Churches of Christ-related search terms, and was surprised to find only three &amp;ldquo;instances of&amp;rdquo; a magazine with the &amp;ldquo;main subject&amp;rdquo; of Churches of Christ. I then searched for the Christian Chronicle, a movement-affiliated newspaper with more of a journalistic (rather than polemic) inclination. Of course, I realized later that since it&amp;rsquo;s a newspaper, and not a magazine, it shouldn&amp;rsquo;t have shown up in the list anyway, but never mind.</description>
     </item>
     
     <item>
       <title>Comp Methods Progress, March 9</title>
-      <link>https://pa20bm.github.io/posts/2021-03-09-comp-methods-progress/</link>
+      <link>https://pa20bm.github.io/HugoSite/posts/2021-03-09-comp-methods-progress/</link>
       <pubDate>Mon, 22 Mar 2021 09:32:43 -0400</pubDate>
       
-      <guid>https://pa20bm.github.io/posts/2021-03-09-comp-methods-progress/</guid>
+      <guid>https://pa20bm.github.io/HugoSite/posts/2021-03-09-comp-methods-progress/</guid>
       <description>March 9: For my topic modeling, I chose 12 editorials from the 1960 volume of the Firm Foundation ending on Nov. 1, the last issue published before the presidential election. I struggled to find a background reference material. Archives of the Christian Century, America, Catholic Reporter and Billy Graham’s sermons are all either unavailable or can’t be copied into plain text documents for analysis. So in the end, I just grabbed 12 editorials from another Church of Christ journal I have, the Gospel Advocate.</description>
     </item>
     
