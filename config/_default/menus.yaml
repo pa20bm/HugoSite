@@ -1,10 +1,10 @@
 main:
   - name: C.V.
-    url: /cv/
+    url: cv/
     weight: 1
   - name: Posts
-    url: /posts/
+    url: posts/
     weight: 2
   - name: Projects
-    url: /projects/
+    url: projects/
     weight: 3
