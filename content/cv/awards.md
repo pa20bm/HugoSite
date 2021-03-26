@@ -20,4 +20,4 @@ May 2016
 2009: Specialty Reporting, 1st Place
 
 ### Texas APME
-2009: Star Breaking News Report of the Year, 2md Place
+2009: Star Breaking News Report of the Year, 2nd Place
