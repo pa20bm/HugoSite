@@ -1,5 +1,5 @@
 ---
-title: Where I've Studied
+title: Education
 layout: 
 weight: 2
 ---

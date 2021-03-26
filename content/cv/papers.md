@@ -1,5 +1,5 @@
 ---
-title: Papers I've Presented
+title: Papers Presented
 layout: 
 weight: 4
 ---

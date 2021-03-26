@@ -1,5 +1,5 @@
 ---
-title: Articles I've Written
+title: Articles Published
 layout: 
 weight: 3
 ---

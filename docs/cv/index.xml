@@ -9,7 +9,7 @@
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
 </copyright><atom:link href="https://pa20bm.github.io/HugoSite/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Where I&#39;ve Worked</title>
+      <title>Work Experience</title>
       <link>https://pa20bm.github.io/HugoSite/cv/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -23,7 +23,7 @@
     </item>
     
     <item>
-      <title>Where I&#39;ve Studied</title>
+      <title>Education</title>
       <link>https://pa20bm.github.io/HugoSite/cv/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>Articles I&#39;ve Written</title>
+      <title>Articles Published</title>
       <link>https://pa20bm.github.io/HugoSite/cv/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -50,7 +50,7 @@
     </item>
     
     <item>
-      <title>Papers I&#39;ve Presented</title>
+      <title>Papers Presented</title>
       <link>https://pa20bm.github.io/HugoSite/cv/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -62,6 +62,20 @@
   &amp;ldquo;Missing the Marx: The Decline and Fall of Marxism in the Writings of Gustavo Gutiérrez&amp;rdquo;
  Southwest Conference of Religious Studies March 2016, Irving, Texas
  &amp;ldquo;&amp;lsquo;Drenched with Evolution&amp;rsquo;: The Role of Reuel Lemmons and Churches of Christ in the Texas Textbook Controversy of 1964&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Awards and Recognition</title>
+      <link>https://pa20bm.github.io/HugoSite/cv/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pa20bm.github.io/HugoSite/cv/awards/</guid>
+      <description>Stone-Campbell Journal Promising Scholar May 2016
+CASE Accolade 2016: Feature Writing, 2nd Place
+CASE Accolade 2013: Feature Writing, Honorable Mention
+Houston Press Club 2010: Lone Star Award, Breaking News
+Texas APME 2009: Specialty Reporting, 1st Place
+Texas APME 2009: Star Breaking News Report of the Year, 2md Place</description>
     </item>
     
   </channel>
