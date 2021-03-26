@@ -1,30 +1,47 @@
 ---
-title: Experiences
+title: C.V. Summary
 draft: false
 experiences:
-  - title: Example Role 1
+  - title: Ph.D. student
     organization:
-      name: Example Organization 1
-      url: https://example.org
-    dates: '2019 - Present'
-    location: Country
+      name: Florida State University
+      url: https://religion.fsu.edu/person/paul-anthony
+    dates: '2020 - Present'
+    location: Tallahassee, Fla.
     writeup: >
-      Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
+      Experience with the following classes:
 
-      - Suspendisse lacinia mauris a laoreet vehicula.
+      - Instructor of record: Introduction to World Religions (Fall 2021)
 
-      - Aenean tincidunt enim vitae ante blandit tempor.
+      - Teaching assistant: Introduction to World Religions (Spring 2021), Religion in the United States (Fall 2020)
 
-      - Nam tincidunt diam quis lorem rutrum ullamcorper.
       
-  - title: Example Role 2
+  - title: Public Information Officer
     organization:
-      name: Example Organization 2
-      url: https://example.org
-    dates: '2017 - 2019'
-    location: Country
-    writeup: >
-      **Aliquam** at **rutrum** ante. In sed quam faucibus.
+      name: Comal County
+      url: https://www.comalcountytx.com
+    dates: '2015-2020'
+    location: New Braunfels, Texas
+
+  - title: Communications Coordinator
+    organization:
+      name: Abilene Christian University, Advancement and Alumni Relations
+      url: https://www.acu.edu
+    dates: '2009-2015'
+    location: Abilene, Texas
+
+  - title: Staff Writer
+    organization:
+      name: San Angelo Standard-Times
+      url: https://www.gosanangelo.com
+    dates: '2004-2009'
+    location: San Angelo, Texas
+
+  - title: Read more
+    organization:
+      name: Full C.V.
+      url: https://pa20bm.github.io/HugoSite/cv
+ 
 
 weight: 3
 widget:
