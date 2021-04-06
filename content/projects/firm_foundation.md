@@ -22,7 +22,7 @@ As such, with no denominational arvhives available, these weekly journals are in
 
 Begun to fulfill assignments for a class on computational methods in the humanities, this project has a number of facets that may be of limited relevance or worth outside of simply practicing various methods for classwork; nevertheless, here are links to my work:
 
-### Overall Project Link <img src="https://www.therestorationmovement.com/images4/chism14.jpg" style="float:right;width:250px;">
+### Overall Project Link <img src="https://raw.githubusercontent.com/pa20bm/HugoSite/main/content/images/FF_1960.png" style="float:right;width:350px;">
 
 - [On GitHub](https://github.com/pa20bm/firm-foundation/tree/main/anthony-firm-foundation-main)
 
