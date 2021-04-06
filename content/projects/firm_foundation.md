@@ -9,7 +9,7 @@ series: []
 date: 2021-03-26T10:55:37-04:00
 lastmod: 2021-03-26T10:55:37-04:00
 featuredVideo:
-featuredImage:
+featuredImage: images/Tableau.png
 draft: false
 ---
 
@@ -22,7 +22,7 @@ As such, with no denominational arvhives available, these weekly journals are in
 
 Begun to fulfill assignments for a class on computational methods in the humanities, this project has a number of facets that may be of limited relevance or worth outside of simply practicing various methods for classwork; nevertheless, here are links to my work:
 
-### Overall Project Link
+### Overall Project Link <img src="https://www.therestorationmovement.com/images4/chism14.jpg" style="float:right;width:250px;">
 
 - [On GitHub](https://github.com/pa20bm/firm-foundation/tree/main/anthony-firm-foundation-main)
 
