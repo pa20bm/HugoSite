@@ -56,3 +56,34 @@ The 1960 **presidential candidacy of John F. Kennedy** sparked alarm among write
 - [*Firm Foundation* editorials](https://github.com/pa20bm/firm-foundation/tree/main/anthony-firm-foundation-main/1960-editorials/ff), August 9-November 1, 1960 (lightly cleaned plain text files and CSV index)
 - [*Gospel Advocate* editorials](https://github.com/pa20bm/firm-foundation/tree/main/anthony-firm-foundation-main/1960-editorials/ga), October 6-December 22, 1960 (lightly cleaned plain text files and CSV index, different date range because *GA* redesigned in October, and its issues pre-10/6/60 are much messier)
 - [Various topic modeling spreadsheets](https://github.com/pa20bm/firm-foundation/tree/main/anthony-firm-foundation-main/1960-editorials), to the extent they are helpful
+
+Further **experimenting with word counts and visualization** didn't result in much beyond [Voyant word clouds](https://github.com/pa20bm/firm-foundation/tree/main/anthony-firm-foundation-main/word-counts/word-clouds), although some of the following tables proved to be interesting:
+- The top words from each of my randomly selected issues of the *Firm Foundation* (after deleting date- and location-specific words like "July" and "Texas"):
+
+| Date   | 5/22/45 | count | 7/29/52 | count | 11/8/60 | count | 8/10/76 | count |
+|--------|---------|-------|---------|-------|---------|-------|---------|-------|
+| Word 1 | church  | 108   | church  | 158   | church  | 90    | church  | 160   |
+| Word 2 | work    | 84    | meeting | 89    | god     | 50    | restoration | 99 |
+| Word 3 | christ  | 70    | work    | 82    | bible   | 43    | christ  | 98    |
+| Word 4 | meeting | 60    | brother | 68    | worship | 35    | new     | 84    |
+| Word 5 | brother | 49    | good    | 55    | christ  | 33    | bible   | 59    |
+| Word 6 | new     | 47    | bible   | 49    | man     | 26    | movement | 59   |
+| Word 7 | time    | 42    | congregation | 43 | work  | 26    | god     | 57    |
+| Word 8 | god     | 36    | god     | 37    | people  | 25	   | testament | 55  |
+| Word 9 | bible   | 35    | time    | 37    | religious | 25  | men     | 48    |
+| Word 10| good    | 35    | new     | 36    | christian | 24  | churches | 42   |
+
+<img src="https://raw.githubusercontent.com/pa20bm/firm-foundation/main/anthony-firm-foundation-main/word-counts/word-clouds/1960-11-08.png" style="float:right;width:350px;">
+
+Things to note: 
+- "Church" is obviously the No. 1 word, and "Christ" ranks in the Top 5 for three of the four issues (and No. 11 in the fourth), which indicates the phrase "Church of Christ" likely accounts for a lot of this overlap. Not all of it, though: "Jesus" ranks fairly low on these lists, indicating the preferred name for him is more formal Greek title rather than the Hebrew name.
+
+- Key words associated with the groups's doctrinal commitments rank high throughout the sample: "meeting," "restoration," "Bible," congregation," and "new," which appears close to "testament" in the 1976 issue.
+
+- Unique appearances tend to be concentrated in the later issues. The 1960 issue coincides with the presidential election mentioned above, providing an unusually high prevalence of the word, "religious," which is concentrated in article arguing that opposition to a Catholic candidate is not an example of "religious prejudice," as Kennedy himself termed it. 
+
+- Meanwhile, the 1976 issue features a number of articles reflecting on the legacy and future of the Restoration Movement, which broadly applies to Churches of Christ and other groups arising out of the Stone-Campbell merger in the 19th century. Thus the unusually high prevalence of those words, as well as "churches" and, just below that, "unity." 
+
+- The patriarchal nature of the movement is clear. "Brother" and "man" or "men" appear often, likely as stand-ins for "people" but also likely including references to the roles of men in worship – a position that came under increasing pressure as the century moved along.
+
+- Likewise, the movement's silence on civil rights and other questions revolving around the oppression of Black people is clear: no words among the Top 100, not even in 1976, are obviously connected to equality, rights, justice, or race.

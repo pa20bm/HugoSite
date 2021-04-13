@@ -81,7 +81,7 @@
     "image": "https://pa20bm.github.io/HugoSite/images/Tableau.png",
     "datePublished": "2021-03-26T10:55:37-04:00",
     "dateModified": "2021-03-26T10:55:37-04:00",
-    "wordCount":  608 ,
+    "wordCount":  1058 ,
     "publisher": {
         "@type": "Person",
         "name": "C. Wang",
@@ -213,7 +213,7 @@
     </div>
     <div class="mr-6 my-2">
         <i class="fas fa-clock mr-1"></i>
-        <span>3 min read</span>
+        <span>5 min read</span>
     </div>
     
     
@@ -267,6 +267,159 @@
 <li><a href="https://github.com/pa20bm/firm-foundation/tree/main/anthony-firm-foundation-main/1960-editorials/ff"><em>Firm Foundation</em> editorials</a>, August 9-November 1, 1960 (lightly cleaned plain text files and CSV index)</li>
 <li><a href="https://github.com/pa20bm/firm-foundation/tree/main/anthony-firm-foundation-main/1960-editorials/ga"><em>Gospel Advocate</em> editorials</a>, October 6-December 22, 1960 (lightly cleaned plain text files and CSV index, different date range because <em>GA</em> redesigned in October, and its issues pre-10/6/60 are much messier)</li>
 <li><a href="https://github.com/pa20bm/firm-foundation/tree/main/anthony-firm-foundation-main/1960-editorials">Various topic modeling spreadsheets</a>, to the extent they are helpful</li>
+</ul>
+<p>Further <strong>experimenting with word counts and visualization</strong> didn&rsquo;t result in much beyond <a href="https://github.com/pa20bm/firm-foundation/tree/main/anthony-firm-foundation-main/word-counts/word-clouds">Voyant word clouds</a>, although some of the following tables proved to be interesting:</p>
+<ul>
+<li>The top words from each of my randomly selected issues of the <em>Firm Foundation</em> (after deleting date- and location-specific words like &ldquo;July&rdquo; and &ldquo;Texas&rdquo;):</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>5/22/45</th>
+<th>count</th>
+<th>7/29/52</th>
+<th>count</th>
+<th>11/8/60</th>
+<th>count</th>
+<th>8/10/76</th>
+<th>count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Word 1</td>
+<td>church</td>
+<td>108</td>
+<td>church</td>
+<td>158</td>
+<td>church</td>
+<td>90</td>
+<td>church</td>
+<td>160</td>
+</tr>
+<tr>
+<td>Word 2</td>
+<td>work</td>
+<td>84</td>
+<td>meeting</td>
+<td>89</td>
+<td>god</td>
+<td>50</td>
+<td>restoration</td>
+<td>99</td>
+</tr>
+<tr>
+<td>Word 3</td>
+<td>christ</td>
+<td>70</td>
+<td>work</td>
+<td>82</td>
+<td>bible</td>
+<td>43</td>
+<td>christ</td>
+<td>98</td>
+</tr>
+<tr>
+<td>Word 4</td>
+<td>meeting</td>
+<td>60</td>
+<td>brother</td>
+<td>68</td>
+<td>worship</td>
+<td>35</td>
+<td>new</td>
+<td>84</td>
+</tr>
+<tr>
+<td>Word 5</td>
+<td>brother</td>
+<td>49</td>
+<td>good</td>
+<td>55</td>
+<td>christ</td>
+<td>33</td>
+<td>bible</td>
+<td>59</td>
+</tr>
+<tr>
+<td>Word 6</td>
+<td>new</td>
+<td>47</td>
+<td>bible</td>
+<td>49</td>
+<td>man</td>
+<td>26</td>
+<td>movement</td>
+<td>59</td>
+</tr>
+<tr>
+<td>Word 7</td>
+<td>time</td>
+<td>42</td>
+<td>congregation</td>
+<td>43</td>
+<td>work</td>
+<td>26</td>
+<td>god</td>
+<td>57</td>
+</tr>
+<tr>
+<td>Word 8</td>
+<td>god</td>
+<td>36</td>
+<td>god</td>
+<td>37</td>
+<td>people</td>
+<td>25</td>
+<td>testament</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Word 9</td>
+<td>bible</td>
+<td>35</td>
+<td>time</td>
+<td>37</td>
+<td>religious</td>
+<td>25</td>
+<td>men</td>
+<td>48</td>
+</tr>
+<tr>
+<td>Word 10</td>
+<td>good</td>
+<td>35</td>
+<td>new</td>
+<td>36</td>
+<td>christian</td>
+<td>24</td>
+<td>churches</td>
+<td>42</td>
+</tr>
+</tbody>
+</table>
+<img src="https://raw.githubusercontent.com/pa20bm/firm-foundation/main/anthony-firm-foundation-main/word-counts/word-clouds/1960-11-08.png" style="float:right;width:350px;">
+<p>Things to note:</p>
+<ul>
+<li>
+<p>&ldquo;Church&rdquo; is obviously the No. 1 word, and &ldquo;Christ&rdquo; ranks in the Top 5 for three of the four issues (and No. 11 in the fourth), which indicates the phrase &ldquo;Church of Christ&rdquo; likely accounts for a lot of this overlap. Not all of it, though: &ldquo;Jesus&rdquo; ranks fairly low on these lists, indicating the preferred name for him is more formal Greek title rather than the Hebrew name.</p>
+</li>
+<li>
+<p>Key words associated with the groups&rsquo;s doctrinal commitments rank high throughout the sample: &ldquo;meeting,&rdquo; &ldquo;restoration,&rdquo; &ldquo;Bible,&rdquo; congregation,&quot; and &ldquo;new,&rdquo; which appears close to &ldquo;testament&rdquo; in the 1976 issue.</p>
+</li>
+<li>
+<p>Unique appearances tend to be concentrated in the later issues. The 1960 issue coincides with the presidential election mentioned above, providing an unusually high prevalence of the word, &ldquo;religious,&rdquo; which is concentrated in article arguing that opposition to a Catholic candidate is not an example of &ldquo;religious prejudice,&rdquo; as Kennedy himself termed it.</p>
+</li>
+<li>
+<p>Meanwhile, the 1976 issue features a number of articles reflecting on the legacy and future of the Restoration Movement, which broadly applies to Churches of Christ and other groups arising out of the Stone-Campbell merger in the 19th century. Thus the unusually high prevalence of those words, as well as &ldquo;churches&rdquo; and, just below that, &ldquo;unity.&rdquo;</p>
+</li>
+<li>
+<p>The patriarchal nature of the movement is clear. &ldquo;Brother&rdquo; and &ldquo;man&rdquo; or &ldquo;men&rdquo; appear often, likely as stand-ins for &ldquo;people&rdquo; but also likely including references to the roles of men in worship – a position that came under increasing pressure as the century moved along.</p>
+</li>
+<li>
+<p>Likewise, the movement&rsquo;s silence on civil rights and other questions revolving around the oppression of Black people is clear: no words among the Top 100, not even in 1976, are obviously connected to equality, rights, justice, or race.</p>
+</li>
 </ul>
 
         </div>
