@@ -8,7 +8,7 @@
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Fri, 26 Mar 2021 10:55:37 -0400</lastBuildDate><atom:link href="https://pa20bm.github.io/HugoSite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 15:14:55 +0000</lastBuildDate><atom:link href="https://pa20bm.github.io/HugoSite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Work Experience</title>
       <link>https://pa20bm.github.io/HugoSite/cv/work/</link>
@@ -52,6 +52,15 @@
       
       <guid>https://pa20bm.github.io/HugoSite/cv/awards/</guid>
       <description>Stone-Campbell Journal Promising Scholar May 2016</description>
+    </item>
+    
+    <item>
+      <title>Computational Methods Update, April 13</title>
+      <link>https://pa20bm.github.io/HugoSite/posts/2021-04-13-comp-methods/</link>
+      <pubDate>Tue, 13 Apr 2021 15:14:55 +0000</pubDate>
+      
+      <guid>https://pa20bm.github.io/HugoSite/posts/2021-04-13-comp-methods/</guid>
+      <description>Well, I tried to squeeze one last visualization out of Tableau and/or R Studio, and failed miserably.</description>
     </item>
     
     <item>
