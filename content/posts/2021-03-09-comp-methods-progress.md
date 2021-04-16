@@ -10,10 +10,10 @@ date: 2021-03-22T09:32:43-04:00
 lastmod: 2021-03-22T09:32:43-04:00
 featuredVideo:
 featuredImage:
-draft: false
+draft: true
 ---
 
-**March 9**: For my topic modeling, I chose 12 editorials from the 1960 volume of the  Firm Foundation ending on Nov. 1, the last issue published before the presidential election. I struggled to find a background reference material. Archives of the Christian Century, America, Catholic Reporter and Billy Graham’s sermons are all either unavailable or can’t be copied into plain text documents for analysis. So in the end, I just grabbed 12 editorials from another Church of Christ journal I have, the Gospel Advocate. They redesigned in the middle of the year, and the pre-redesign text is much harder to parse, so I took 12 editorials, the first few of which overlap with the dates of the Firm Foundation  editorials.
+**March 9**: For my topic modeling, I chose 12 editorials from the 1960 volume of the *Firm Foundation* ending on Nov. 1, the last issue published before the presidential election. I struggled to find a background reference material. Archives of the Christian Century, America, Catholic Reporter and Billy Graham’s sermons are all either unavailable or can’t be copied into plain text documents for analysis. So in the end, I just grabbed 12 editorials from another Church of Christ journal I have, the Gospel Advocate. They redesigned in the middle of the year, and the pre-redesign text is much harder to parse, so I took 12 editorials, the first few of which overlap with the dates of the Firm Foundation  editorials.
 
 I ran both through Topic Modeling and came up with 10 groups of topics that were slightly different, although interpreting them remains something that isn’t quite clear to me.
 

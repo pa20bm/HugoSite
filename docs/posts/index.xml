@@ -10,30 +10,12 @@
 </copyright>
     <lastBuildDate>Tue, 13 Apr 2021 15:14:55 +0000</lastBuildDate><atom:link href="https://pa20bm.github.io/HugoSite/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Computational Methods Update, April 13</title>
-      <link>https://pa20bm.github.io/HugoSite/posts/2021-04-13-comp-methods/</link>
+      <title>What Is the Firm Foundation? A Structural Description</title>
+      <link>https://pa20bm.github.io/HugoSite/posts/firm-foundation-description/</link>
       <pubDate>Tue, 13 Apr 2021 15:14:55 +0000</pubDate>
       
-      <guid>https://pa20bm.github.io/HugoSite/posts/2021-04-13-comp-methods/</guid>
-      <description>Well, I tried to squeeze one last visualization out of Tableau and/or R Studio, and failed miserably.</description>
-    </item>
-    
-    <item>
-      <title>Computational Methods Update, March 15</title>
-      <link>https://pa20bm.github.io/HugoSite/posts/2021-03-15-comp-methods/</link>
-      <pubDate>Mon, 22 Mar 2021 09:48:55 -0400</pubDate>
-      
-      <guid>https://pa20bm.github.io/HugoSite/posts/2021-03-15-comp-methods/</guid>
-      <description>March 15: I tooled around with the Wikidata Query Service, looking through Churches of Christ-related search terms, and was surprised to find only three &amp;ldquo;instances of&amp;rdquo; a magazine with the &amp;ldquo;main subject&amp;rdquo; of Churches of Christ.</description>
-    </item>
-    
-    <item>
-      <title>Comp Methods Progress, March 9</title>
-      <link>https://pa20bm.github.io/HugoSite/posts/2021-03-09-comp-methods-progress/</link>
-      <pubDate>Mon, 22 Mar 2021 09:32:43 -0400</pubDate>
-      
-      <guid>https://pa20bm.github.io/HugoSite/posts/2021-03-09-comp-methods-progress/</guid>
-      <description>March 9: For my topic modeling, I chose 12 editorials from the 1960 volume of the Firm Foundation ending on Nov.</description>
+      <guid>https://pa20bm.github.io/HugoSite/posts/firm-foundation-description/</guid>
+      <description>At its peak in the middle decades of the 20th century, the Firm Foundation effectively adjudicated doctrinal and ecclesial disputes among the fiercely autonomous congregations making up the fundamentalist wing of the Stone-Campbell Movement known as the Churches of Christ.</description>
     </item>
     
   </channel>
