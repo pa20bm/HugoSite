@@ -25,7 +25,7 @@ Begun to fulfill assignments for a class on computational methods in the humanit
 ### Overall Project Links <img src="https://raw.githubusercontent.com/pa20bm/HugoSite/main/content/images/FF_1960.png" style="float:right;width:350px;">
 
 - [On GitHub](https://github.com/pa20bm/firm-foundation/tree/main/anthony-firm-foundation-main)
-- A technical description of the *Firm Foundation*'s typical mid-century issues.
+- A [technical description](https://pa20bm.github.io/HugoSite/posts/firm-foundation-description/) of the *Firm Foundation*'s typical mid-century issues.
 
 ### Indexes
 
